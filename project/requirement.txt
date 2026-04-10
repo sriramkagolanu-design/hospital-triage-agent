@@ -1,0 +1,18 @@
+# Core LLM + Agent Framework
+openai>=1.0.0
+langgraph>=0.0.40
+
+# Data handling & utilities
+pandas>=2.0.0
+
+# Notebook / execution environment
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Optional but recommended (stability & compatibility)
+python-dotenv>=1.0.0
+requests>=2.30.0
+tqdm>=4.65.0
+
+# JSON/schema validation (future-proofing)
+pydantic>=2.0.0
